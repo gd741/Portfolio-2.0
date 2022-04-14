@@ -5,4 +5,4 @@ Updated portfolio
 
 ## Image of site ##
 ## Site URL ##
-https://gd741.github.io/Javascript-Password-Generator/
+https://gd741.github.io/Portfolio-2.0/
